@@ -1,4 +1,4 @@
-@ECHO OFF&PUSHD %~DP0 &TITLE wifi管理器
+@ECHO OFF&PUSHD %~DP0 &TITLE 1KBwifi管理器
 mode con cols=60 lines=29
 color 00
 
